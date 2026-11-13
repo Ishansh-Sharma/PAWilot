@@ -1,0 +1,16 @@
+.venv/
+.build/
+build/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.sqlite*
+.env
+.DS_Store
+*.log
+credentials*.json
+client_secret*.json
+
+# Private one-time context inputs; never bundle or commit.
+.local/

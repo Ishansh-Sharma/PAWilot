@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "swift.path": "/Library/Developer/CommandLineTools/usr/bin",
+  "terminal.integrated.env.osx": {"DEVELOPER_DIR": "/Library/Developer/CommandLineTools"},
+  "files.exclude": {".build": true, ".cache": true, "**/__pycache__": true}
+}
+

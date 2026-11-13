@@ -1,0 +1,9 @@
+{
+  "display_information": {"name": "PAWilot"},
+  "oauth_config": {
+    "redirect_urls": ["http://localhost:8766/paw/oauth"],
+    "scopes": {"user": ["search:read"]},
+    "pkce_enabled": true
+  },
+  "settings": {"token_rotation_enabled": true}
+}
